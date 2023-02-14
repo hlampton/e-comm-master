@@ -31,14 +31,20 @@ THEN I am able to successfully create, update, and delete data in my database
 From the command line, run:
 
 ```text-'npm init'```
+
 ```text
 -'npm install mysql2'
+
 ```text
 -'npm install sequelize'```
+
 ```text
 -'npm install express'```
+
 ```text
--'npm install dotenv'```
+-'npm install dotenv'
+```
+
 ```text
 -'npm run start'
 ```
