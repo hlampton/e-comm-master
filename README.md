@@ -30,7 +30,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ### Installation/Usage
 From the command line, run:
 
--'npm init'
+```text-'npm init'
 
 -'npm install mysql2'
 
@@ -41,3 +41,4 @@ From the command line, run:
 -'npm install dotenv'
 
 -'npm run start'
+```
